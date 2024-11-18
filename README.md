@@ -1,4 +1,4 @@
-# 32Bit-ALU_Synthesis
+# EXP-5:32Bit-ALU_Synthesis
 
 ## Aim:
 
@@ -37,9 +37,18 @@ used.
 
 #### Synthesis RTL Schematic :
 
+![exp_5](https://github.com/user-attachments/assets/476d8d19-d4b9-483e-83ee-087bba2f63db)
+
+
 #### Area report:
 
+![Screenshot (82)](https://github.com/user-attachments/assets/b50d6e60-8bbc-47fb-a21a-fc4bb6ac3dc8)
+
+
 #### Power Report:
+
+![Screenshot (81)](https://github.com/user-attachments/assets/409fb770-2315-4f87-a362-982587c49658)
+
 
 #### Result: 
 
